@@ -15,6 +15,7 @@ const UseRef = () => {
         <>
             <div style={{ margin: "auto", width: "50%" }}>
                 <div className='d-flex align-items-center justify-content-center'>
+                    <h1>UseRef Example</h1>
                     <h1>Input</h1>
                     <input
                         ref={inputRef}
